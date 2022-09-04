@@ -1,4 +1,10 @@
-# weather-app
+## Weather App
+
+This is a  weather forecasting app built with Vue, the app allows the user to search for the weather anywhere around the globe.
+
+<p align="center">
+<img src="./src/assets/Screenshot%202022-09-04%20at%2018.33.06.png" width="500">
+</p>
 
 ## Project setup
 ```
@@ -15,10 +21,12 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Techonologies
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Vue
+Javascript
+
+### Author
+
+Carolina Dias
+
